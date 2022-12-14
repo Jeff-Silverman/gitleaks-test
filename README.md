@@ -1,4 +1,3 @@
-# gitleaks-test
+# ecco-credential-scanner-test
 
-Testing!
-
+The credential scanner has to have a repository in order to do its thing.
